@@ -1,0 +1,4 @@
+Transaction Id,Date,Amount,Category,Type
+1342bd10,2025-03-24,500.0,Transport,Income
+ecc9164e,2025-03-24,500.0,Rent,Expenses
+,2025-04-05,500.0,Rent,Income
